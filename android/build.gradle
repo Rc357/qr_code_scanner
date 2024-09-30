@@ -25,7 +25,7 @@ apply plugin: 'com.android.library'
 apply plugin: 'kotlin-android'
 
 android {
-    namespace 'ph.rex.mobile.qr_code_scanner
+    namespace 'ph.rex.mobile.qr_code_scanner'
     compileSdk 33
 
     sourceSets {
